@@ -1,0 +1,7 @@
+apiVersion: core.kube-hive.org/v1alpha1
+kind: Drone
+metadata:
+  name: example-drone
+spec:
+  # Add fields here
+  size: 3
